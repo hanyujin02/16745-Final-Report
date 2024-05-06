@@ -1,4 +1,6 @@
 # 16745-Final-Report
+ROS package for the MPC planner is available at 
 ```
-ROS package for the MPC planner is available at \url{https://github.com/hanyujin02/trajectory_planner.git}
+https://github.com/hanyujin02/trajectory_planner.git
 ```
+
